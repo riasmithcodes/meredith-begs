@@ -1,0 +1,31 @@
+body {
+  background-color: blue;
+}
+h1 {
+  color : white;
+  font-size: 21px;
+  font-family: sans-serif, helvetica, arial;
+}
+h4{
+  color: white;
+}
+ul, p{
+  color: white;
+}
+
+h6{
+  color: white;
+}
+img{
+  width: 80%;
+  
+}
+
+.header {
+  border: 1px solid black;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+.footer {
+  background: yellow
+}
